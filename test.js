@@ -1,1 +1,1 @@
-const http = "www.baidu.com"
+window.githubApi = "www.baidu.com"
